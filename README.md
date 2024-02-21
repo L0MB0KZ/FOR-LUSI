@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -27,7 +27,6 @@
     <div class="description">
         <span>SPECIAL NIH BUAT KAMU</span>
     </div>
-</div>
 <div class="description">
     <span>SORRY YAA MASIH KURANG BAGUS🤍</span>
 </div>
